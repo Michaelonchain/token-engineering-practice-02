@@ -21,3 +21,5 @@ over time in Web3 protocols.
 
 Incentives drive behavior.
 If emissions reward the wrong actions, the protocol degrades over time.
+This practice is part of an ongoing effort to develop practical
+token engineering skills through hands-on modeling.
